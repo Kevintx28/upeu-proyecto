@@ -1,6 +1,6 @@
 # upeu-proyecto
 ## *comandos para ejecutar git*
-git add . //confirmar cambios
+```git add . //confirmar cambios```
 git commit -m "el mensaje" //agregar comentario
 git push // subir cambios
 git status // revisar estado git
