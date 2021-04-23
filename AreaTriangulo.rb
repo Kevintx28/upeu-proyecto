@@ -2,9 +2,9 @@
 print "Ejercicios 01:Area de un Triangulo"
 #Datos de entrada
 puts"Ingrese Base:"
-b=gets.to_1
+b=gets.chomp.to_i
 puts"Ingrese Altura:"
-h=gets.to_1
+h=gets.chomp.to_i
 #Proceso
 area=(b*h)/2
 #Datos de Salida
