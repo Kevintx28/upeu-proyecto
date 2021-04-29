@@ -1,6 +1,6 @@
 # upeu-proyecto
 
-## *comandos para ejecutar git*
+## comandos para ejecutar git
 
 ```git add . //confirmar cambios```
 
@@ -26,17 +26,17 @@ _revisar estado git_
 
 ```java (nombre del archivo)```
 
-##python
+## python
 
 ```python (nombre del archivo).py```
 
-##Ruby
+## Ruby
 
 ```ruby (nombre de archivo).rb```
 
-##c++
+## c++
 
-##g++
+## g++
 
 ```nombre de archivo).cpp -o (nombre del archivo)```
 
