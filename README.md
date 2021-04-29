@@ -2,11 +2,18 @@
 ## *comandos para ejecutar git*
 ```git add . //confirmar cambios```
 
-git commit -m "el mensaje" //agregar comentario
-git push // subir cambios
-git status // revisar estado git
+```git commit -m "el mensaje" //agregar comentario```
+
+```git push```
+ 
+_subir cambios
+
+```git status```
+
+_revisar estado git
+
 ## comandos para ejecutar replit
-*java* 
+### java 
 javac (nombre de archivo).java
 java (nombre del archivo)
 *python*
