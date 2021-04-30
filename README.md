@@ -1,7 +1,9 @@
 # upeu-proyecto
 
 ## comandos para ejecutar git
+
 _confirmar cambios_
+
 ```git add . //confirmar cambios```
 
 _agregar comentario_
@@ -37,6 +39,7 @@ _revisar estado git_
 ## c++
 
 ## g++
+=======
 
 ```nombre de archivo).cpp -o (nombre del archivo)```
 
@@ -44,5 +47,19 @@ _revisar estado git_
 
 # kevintx28
 
-⌨️ con ❤️ por [kevintx28](https://github.com/Kevintx28) 😊 :boom:
+con ❤️ por Kevintx28 😊 
+
+# Mis redes Sociales
+
+## Facebook
+
+_https://www.facebook.com/kevin.tola.77_
+
+## Youtube
+
+_https://www.youtube.com/channel/UCwWwTaOxr8olnHUOuKdXl4g_
+
+## Github
+
+_https://github.com/Kevintx28_ 
 
