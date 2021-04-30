@@ -38,8 +38,6 @@ _revisar estado git_
 
 ## c++
 
-## g++
-
 ```nombre de archivo).cpp -o (nombre del archivo)```
 
 ```./(nombre del archivo)```
