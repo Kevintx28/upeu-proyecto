@@ -1,22 +1,22 @@
 # upeu-proyecto
 
-## *comandos para ejecutar git*
-
-```git add . //confirmar cambios```
-
+## comandos para ejecutar git
 _confirmar cambios_
-
-```git commit -m "el mensaje"```
+```git add . //confirmar cambios```
 
 _agregar comentario_
 
-```git push```
+```git commit -m "el mensaje"```
 
 _subir cambios_
 
-```git status```
+```git push```
 
 _revisar estado git_
+
+```git status```
+
+
 
 # comandos para ejecutar replit
 
@@ -26,17 +26,17 @@ _revisar estado git_
 
 ```java (nombre del archivo)```
 
-##python
+## python
 
 ```python (nombre del archivo).py```
 
-##Ruby
+## Ruby
 
 ```ruby (nombre de archivo).rb```
 
-##c++
+## c++
 
-##g++
+## g++
 
 ```nombre de archivo).cpp -o (nombre del archivo)```
 
