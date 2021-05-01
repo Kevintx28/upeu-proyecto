@@ -20,6 +20,8 @@ static Scanner input = new Scanner(System.in);
       area=(b*h)/2;
       //Datos de Salida
       System.out.println("Area de un Triangulo es:"+area);
+
+      System.out.println("weby waboo");
     }
 
 
