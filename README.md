@@ -1,12 +1,12 @@
-# upeu-proyecto
+# Upeu-Proyecto
 
-## comandos para ejecutar git
+## Comandos para ejecutar git
 
-_confirmar cambios_
+_Confirmar cambios_
 
 ```git add . //confirmar cambios```
 
-_agregar comentario_
+_Agregar comentario_
 
 ```git commit -m "el mensaje"```
 
@@ -67,3 +67,13 @@ _kevintx28#1633_
 ## WhatsApp
 
 _+051 917 039 670_
+
+## Correo Electronico
+
+_kevin.tolachoque@gmail.com_
+
+## Twitter
+
+_https://twitter.com/kevin81011909_
+
+
