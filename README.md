@@ -64,10 +64,6 @@ _https://github.com/Kevintx28_
 
 _kevintx28#1633_
 
-## WhatsApp
-
-_+051 917 039 670_
-
 ## Correo Electronico
 
 _kevin.tolachoque@gmail.com_
