@@ -72,11 +72,8 @@ _+051 917 039 670_
 
 _kevin.tolachoque@gmail.com_
 
-<<<<<<< HEAD
 ## Twitter
 
 _https://twitter.com/kevin81011909_
 
-=======
->>>>>>> 9c9b0639367a9b8e2f7844a648239112f09af814
 
