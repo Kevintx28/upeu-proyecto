@@ -1,2 +1,13 @@
 *.replit
-Act-1/*.class
+*.class
+*.jar
+#**/*
+!**/*.cpp
+!**/*.dart
+!**/*.go
+!**/*.java
+!**/*.kt
+!**/*.py
+!**/*.rb
+!**/*.scala
+!**/*.html
