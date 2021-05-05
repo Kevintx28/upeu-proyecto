@@ -27,23 +27,5 @@ else{
 resultado = costo_por_hora * tiempo_de_trabajo;
 }
 System.out.println (resultado);
-
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
 }

@@ -19,17 +19,6 @@ if (edad_de_la_persona<18) {
   System.out.println("no puede votar");
 
 }
-
-
-
-
-
-
-
-
-
-
-
     }
 
 
