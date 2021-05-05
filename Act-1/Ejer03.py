@@ -18,4 +18,4 @@ def Ejer03():
   print("puede adquirir los siguientes elementos:", opciones)
 
   
-Ejer02()
+Ejer03()
