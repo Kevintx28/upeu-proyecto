@@ -17,8 +17,10 @@ _subir cambios_
 _revisar estado git_
 
 ```git status```
+ 
+_entrar a la carpeta_
 
-
+```cd "nombre de la carpeta"```
 
 # comandos para ejecutar replit
 

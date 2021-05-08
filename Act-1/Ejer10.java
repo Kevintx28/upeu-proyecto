@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Ejer03{
+class Ejer10{
 static Scanner input = new Scanner (System.in);
 public static void main (String[] args){
 

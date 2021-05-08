@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Ejer02{
+class Ejer11{
 static Scanner input = new Scanner(System.in);
     public static void main(String[] args){
 int tiempo_de_trabajo;
