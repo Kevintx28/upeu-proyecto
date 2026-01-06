@@ -52,7 +52,7 @@ con ❤️ por Kevintx28 😊
 
 ## Facebook
 
-_https://www.facebook.com/kevin.tola.77_
+?
 
 ## Youtube
 
@@ -67,11 +67,8 @@ _https://github.com/Kevintx28_
 _kevintx28#1633_
 
 ## Correo Electronico
-
-_kevin.tolachoque@gmail.com_
-
+?
 ## Twitter
-
-_https://twitter.com/kevin81011909_
+?
 
 
